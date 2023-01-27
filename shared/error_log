@@ -1,0 +1,19 @@
+[25-Apr-2022 19:19:06 UTC] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING), expecting ')' in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 29
+[25-Apr-2022 19:19:09 UTC] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING), expecting ')' in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 29
+[25-Apr-2022 19:19:16 UTC] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING), expecting ')' in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 29
+[25-Apr-2022 19:19:16 UTC] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING), expecting ')' in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 29
+[25-Apr-2022 19:19:16 UTC] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING), expecting ')' in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 29
+[25-Apr-2022 19:19:19 UTC] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING), expecting ')' in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 29
+[25-Apr-2022 19:19:46 UTC] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING), expecting ')' in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 29
+[25-Apr-2022 19:20:00 UTC] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING), expecting ')' in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 29
+[25-Apr-2022 19:20:02 UTC] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING), expecting ')' in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 29
+[25-Apr-2022 19:20:04 UTC] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING), expecting ')' in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 29
+[25-Apr-2022 19:20:04 UTC] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING), expecting ')' in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 29
+[07-May-2022 05:54:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 11
+[07-May-2022 05:55:25 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 10
+[07-May-2022 05:55:29 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 10
+[07-May-2022 05:55:52 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 10
+[07-May-2022 05:56:04 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 10
+[07-May-2022 05:56:08 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 11
+[07-May-2022 05:57:35 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 13
+[07-May-2022 05:57:59 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 11

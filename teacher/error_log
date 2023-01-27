@@ -1,0 +1,54 @@
+[07-May-2022 05:37:25 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/login/authorizeUser.php on line 11
+[07-May-2022 05:37:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/login/authorizeUser.php on line 11
+[07-May-2022 05:38:16 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/login/authorizeUser.php on line 10
+[07-May-2022 05:43:29 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/login/authorizeUser.php on line 10
+[07-May-2022 05:43:38 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/login/authorizeUser.php on line 10
+[07-May-2022 05:43:45 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/login/authorizeUser.php on line 10
+[07-May-2022 05:44:30 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/login/authorizeUser.php on line 10
+[07-May-2022 05:44:33 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/login/authorizeUser.php on line 10
+[07-May-2022 05:45:27 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/login/authorizeUser.php on line 10
+[07-May-2022 05:46:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/login/authorizeUser.php on line 10
+[07-May-2022 05:57:15 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 13
+[07-May-2022 06:06:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[07-May-2022 06:06:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/shared/shared.php on line 3
+[08-May-2022 04:00:26 UTC] PHP Notice:  Undefined index: user in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/teacher/index.php on line 49
+[08-May-2022 04:02:20 UTC] PHP Notice:  Undefined index: typeUser in /home/lumacadc/public_html/alert.lumacad.com.mx/alert/teacher/index.php on line 3
